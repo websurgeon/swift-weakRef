@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D086222F212FF14300AD9D44"
-               BuildableName = "TemplateFramework.framework"
-               BlueprintName = "TemplateFramework-watchOS"
-               ReferencedContainer = "container:TemplateFramework.xcodeproj">
+               BlueprintIdentifier = "D0862213212FF13000AD9D44"
+               BuildableName = "WeakRef.framework"
+               BlueprintName = "WeakRef-macOS"
+               ReferencedContainer = "container:WeakRef.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D086221B212FF13000AD9D44"
+               BuildableName = "WeakRefTests.xctest"
+               BlueprintName = "WeakRef-macOSTests"
+               ReferencedContainer = "container:WeakRef.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D0862213212FF13000AD9D44"
+            BuildableName = "WeakRef.framework"
+            BlueprintName = "WeakRef-macOS"
+            ReferencedContainer = "container:WeakRef.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,10 +64,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D086222F212FF14300AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-watchOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BlueprintIdentifier = "D0862213212FF13000AD9D44"
+            BuildableName = "WeakRef.framework"
+            BlueprintName = "WeakRef-macOS"
+            ReferencedContainer = "container:WeakRef.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +82,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D086222F212FF14300AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-watchOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BlueprintIdentifier = "D0862213212FF13000AD9D44"
+            BuildableName = "WeakRef.framework"
+            BlueprintName = "WeakRef-macOS"
+            ReferencedContainer = "container:WeakRef.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

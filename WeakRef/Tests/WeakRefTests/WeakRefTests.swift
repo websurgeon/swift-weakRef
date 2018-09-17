@@ -4,9 +4,9 @@
 
 import Foundation
 import XCTest
-import TemplateFramework
+import WeakRef
 
-class TemplateFrameworkTests: XCTestCase {
+class WeakRefTests: XCTestCase {
 
     func test_something() {
         let sut = TemplateValue()
