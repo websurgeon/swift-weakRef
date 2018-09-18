@@ -20,7 +20,7 @@
 		D0862277212FF81400AD9D44 /* WeakRef.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* WeakRef.swift */; };
 		D0862278212FF81500AD9D44 /* WeakRef.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* WeakRef.swift */; };
 		D0862279212FF81600AD9D44 /* WeakRef.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* WeakRef.swift */; };
-		D086227A212FF81A00AD9D44 /* WeakRefTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862273212FF79000AD9D44 /* WeakRefTests.swift */; };
+		D0AEF7B42150F1F500E9043E /* WeakRefTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862273212FF79000AD9D44 /* WeakRefTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -560,7 +560,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D086227A212FF81A00AD9D44 /* WeakRefTests.swift in Sources */,
+				D0AEF7B42150F1F500E9043E /* WeakRefTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

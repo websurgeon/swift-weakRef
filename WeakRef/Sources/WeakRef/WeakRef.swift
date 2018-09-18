@@ -4,10 +4,10 @@
 
 import Foundation
 
-public struct TemplateValue {
-    public var hello: String {
-        return "world"
-    }
+public final class WeakRef<T: AnyObject> {
+    public weak var object: T?
     
-    public init() {}
+    public init(_ object: T) {
+        self.object = object
+    }
 }
